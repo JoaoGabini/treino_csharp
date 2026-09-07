@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\User\\Desktop\\treino_csharp\\aulas\\aula1\\aula1.csproj": {}
+    "C:\\Users\\User\\Desktop\\treino_csharp\\aulas\\aula1\\aula1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\User\\Desktop\\treino_csharp\\aulas\\aula1\\aula1.csproj": {
+    "C:\\Users\\User\\Desktop\\treino_csharp\\aulas\\aula1\\aula1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\User\\Desktop\\treino_csharp\\aulas\\aula1\\aula1.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\treino_csharp\\aulas\\aula1\\aula1.csproj",
         "projectName": "aula1",
-        "projectPath": "c:\\Users\\User\\Desktop\\treino_csharp\\aulas\\aula1\\aula1.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\treino_csharp\\aulas\\aula1\\aula1.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\User\\Desktop\\treino_csharp\\aulas\\aula1\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\treino_csharp\\aulas\\aula1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

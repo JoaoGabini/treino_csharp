@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\treino_csharp\aulas\aula7\bin\Debug\net10.0\aula7.exe
+C:\Users\User\Desktop\treino_csharp\aulas\aula7\bin\Debug\net10.0\aula7.deps.json
+C:\Users\User\Desktop\treino_csharp\aulas\aula7\bin\Debug\net10.0\aula7.runtimeconfig.json
+C:\Users\User\Desktop\treino_csharp\aulas\aula7\bin\Debug\net10.0\aula7.dll
+C:\Users\User\Desktop\treino_csharp\aulas\aula7\bin\Debug\net10.0\aula7.pdb
+C:\Users\User\Desktop\treino_csharp\aulas\aula7\obj\Debug\net10.0\aula7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\treino_csharp\aulas\aula7\obj\Debug\net10.0\aula7.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\treino_csharp\aulas\aula7\obj\Debug\net10.0\aula7.AssemblyInfo.cs
+C:\Users\User\Desktop\treino_csharp\aulas\aula7\obj\Debug\net10.0\aula7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\treino_csharp\aulas\aula7\obj\Debug\net10.0\aula7.sourcelink.json
+C:\Users\User\Desktop\treino_csharp\aulas\aula7\obj\Debug\net10.0\aula7.dll
+C:\Users\User\Desktop\treino_csharp\aulas\aula7\obj\Debug\net10.0\refint\aula7.dll
+C:\Users\User\Desktop\treino_csharp\aulas\aula7\obj\Debug\net10.0\aula7.pdb
+C:\Users\User\Desktop\treino_csharp\aulas\aula7\obj\Debug\net10.0\aula7.genruntimeconfig.cache
+C:\Users\User\Desktop\treino_csharp\aulas\aula7\obj\Debug\net10.0\ref\aula7.dll
